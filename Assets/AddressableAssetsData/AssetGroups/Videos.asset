@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Videos
+  m_EditorClassIdentifier: 
+  m_GroupName: Videos
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8146d387f0f4b3f4fa71cff5a0d2a290
+  m_SerializeEntries:
+  - m_GUID: 06b428f03517aa347b02db54bd246d0a
+    m_Address: "Assets/Examples/Video/Assets/Lone Ranger - Rachel Platten (Lyrics
+      + Vietsub) -- TikTok \u266B.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: 086f477632ebce148b42deda87eef6cd
+    m_Address: Assets/Examples/Video/Assets/Sia - Unstoppable (Lyrics).mp4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: df1fe759b7c6d154991e3b85f25f5f23
+    m_Address: "Assets/Examples/Video/Assets/Y\xCAU TH\u01AF\u01A0NG L\xC0 B\xC3O
+      T\u1ED0 - H\xD9NG QU\xC2N - MV LYRICS.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: c171c8fe7e4c7d74eb8b00f1c4057119
+    m_Address: "Assets/Examples/Video/Assets/KARIK x ONLY C - C\xD3 CH\u01A0I C\xD3
+      CH\u1ECAU (OFFICIAL MUSIC VIDEO).mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: a7a47d28916ecc648aa50a45d982936b
+    m_Address: "Assets/Examples/Video/Assets/TI\u1EBENG PH\xC1O TI\u1EC4N NG\u01AF\u1EDCI
+      - H\xD9NG QU\xC2N - OFFICIAL MUSIC VIDEO.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 65b8d36598bd2904cbb2a349483cf0cf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9b8fa853d4a408c438cf935b9e8b3acf, type: 2}
+    - {fileID: 11400000, guid: e0cce1f4f3b1d324c800cdeed8851085, type: 2}
